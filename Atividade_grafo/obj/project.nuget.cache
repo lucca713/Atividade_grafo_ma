@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HFOG2YuWPqw=",
+  "success": true,
+  "projectFilePath": "/home/lucca/Área de trabalho/Atividade_grafo_ma/Atividade_grafo/Atividade_grafo.csproj",
+  "expectedPackageFiles": [
+    "/home/lucca/.nuget/packages/microsoft.netcore.app.ref/8.0.14/microsoft.netcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/lucca/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.14/microsoft.aspnetcore.app.ref.8.0.14.nupkg.sha512",
+    "/home/lucca/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.14/microsoft.netcore.app.host.linux-x64.8.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

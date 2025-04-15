@@ -1,0 +1,82 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/lucca/Área de trabalho/Atividade_grafo_ma/Atividade_grafo/Atividade_grafo.csproj": {}
+  },
+  "projects": {
+    "/home/lucca/Área de trabalho/Atividade_grafo_ma/Atividade_grafo/Atividade_grafo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/lucca/Área de trabalho/Atividade_grafo_ma/Atividade_grafo/Atividade_grafo.csproj",
+        "projectName": "Atividade_grafo",
+        "projectPath": "/home/lucca/Área de trabalho/Atividade_grafo_ma/Atividade_grafo/Atividade_grafo.csproj",
+        "packagesPath": "/home/lucca/.nuget/packages/",
+        "outputPath": "/home/lucca/Área de trabalho/Atividade_grafo_ma/Atividade_grafo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/lucca/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/lib/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[8.0.14, 8.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.104/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

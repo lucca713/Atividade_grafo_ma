@@ -1,0 +1,14 @@
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\bin\Debug\net8.0\Atividade_grafo.exe
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\bin\Debug\net8.0\Atividade_grafo.deps.json
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\bin\Debug\net8.0\Atividade_grafo.runtimeconfig.json
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\bin\Debug\net8.0\Atividade_grafo.dll
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\bin\Debug\net8.0\Atividade_grafo.pdb
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.AssemblyInfoInputs.cache
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.AssemblyInfo.cs
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.dll
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\refint\Atividade_grafo.dll
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.pdb
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\Atividade_grafo.genruntimeconfig.cache
+C:\Users\Pichau\source\repos\Atividade_grafo\Atividade_grafo\obj\Debug\net8.0\ref\Atividade_grafo.dll

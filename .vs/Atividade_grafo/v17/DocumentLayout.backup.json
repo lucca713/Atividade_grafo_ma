@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pichau\\source\\repos\\Atividade_grafo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D90021E-D815-407F-AB53-EA7A88D55FF5}|Atividade_grafo\\Atividade_grafo.csproj|c:\\users\\pichau\\source\\repos\\atividade_grafo\\atividade_grafo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D90021E-D815-407F-AB53-EA7A88D55FF5}|Atividade_grafo\\Atividade_grafo.csproj|solutionrelative:atividade_grafo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pichau\\source\\repos\\Atividade_grafo\\Atividade_grafo\\Program.cs",
+              "RelativeDocumentMoniker": "Atividade_grafo\\Program.cs",
+              "ToolTip": "C:\\Users\\Pichau\\source\\repos\\Atividade_grafo\\Atividade_grafo\\Program.cs",
+              "RelativeToolTip": "Atividade_grafo\\Program.cs",
+              "ViewState": "AgIAAH0BAAAAAAAAAAAswIsBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T14:06:58.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
